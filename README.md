@@ -72,16 +72,14 @@ The overall architecture and training reward&cost are demonstrated in the follow
 <p align="center">
 The scenario of 3 UAVs<br>
 <img src="data/gifs/navigation_3agts.gif" alt="3agents" width="400" height="400" />
-</p>
-
-<p align="center">
+ 
 The scenario of 6 UAVs<br>
 <img src="data/gifs/navigation_6agts.gif" alt="6agents" width="400" height="400" />
 </p>
 
 <p align="center">
 The scenario of 9 UAVs<br>
-<img src="data/gifs/navigation_9agts-sid0.gif" alt="9agents-0" width="350" height="350" />
-<img src="data/gifs/navigation_9agts-sid1.gif" alt="9agents-1" width="350" height="350" /> 
-<img src="data/gifs/navigation_9agts-sid2.gif" alt="9agents-2" width="350" height="350" /> 
+<img src="data/gifs/navigation_9agts-sid0.gif" alt="9agents-0" width="350" height="300" />
+<img src="data/gifs/navigation_9agts-sid1.gif" alt="9agents-1" width="350" height="300" /> 
+<img src="data/gifs/navigation_9agts-sid2.gif" alt="9agents-2" width="350" height="300" /> 
 </p> 
