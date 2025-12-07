@@ -77,7 +77,7 @@ The scenario of 3 UAVs and 6 UAVs<br>
 
 <p align="center">
 The scenario of 9 UAVs<br>
-<img src="data/gifs/navigation_9agts-sid0.gif" alt="9agents-0" width="350" height="250" />
-<img src="data/gifs/navigation_9agts-sid1.gif" alt="9agents-1" width="350" height="250" /> 
-<img src="data/gifs/navigation_9agts-sid2.gif" alt="9agents-2" width="350" height="250" /> 
+<img src="data/gifs/navigation_9agts-sid0.gif" alt="9agents-0" width="250" height="250" />
+<img src="data/gifs/navigation_9agts-sid1.gif" alt="9agents-1" width="250" height="250" /> 
+<img src="data/gifs/navigation_9agts-sid2.gif" alt="9agents-2" width="250" height="250" /> 
 </p> 
