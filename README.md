@@ -57,19 +57,22 @@ bash render_your_scenario.sh
 ```
 Setting `use_render` to `True` will enable rendering of the environment in a separate window. Additionally, if `save_gifs` is set to `True`, the generated gifs will be saved to the directory where the model parameter is saved.
 
-## Demo 1
-This demo shows the strong scalability of SS-MARL. Despite being trained with only 3 agents, the models are capable of more complex, randomly generated scenarios, even scaling up to a challenge involving 96 agents.  
-### Train on cooperative navigation with 3 agents
-<img src="https://anonymous.4open.science/r/SS-MARL/demo/navigation/3agents.gif" alt="3agents" style="width: 250px; height: 250px;" />  
+## Demos
 
-### Zero-shot transfer to cooperative navigation with 6, 12, 24, 48, 96 agents
+The overall architecture and training reward&cost are demonstrated in the following figures. To see more details, please refer to our paper.
 
-<img src="https://anonymous.4open.science/r/SS-MARL/demo/navigation/6agents.gif" alt="6agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SS-MARL/demo/navigation/12agents.gif" alt="12agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SS-MARL/demo/navigation/24agents.gif" alt="24agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SS-MARL/demo/navigation/compress_48agents.gif" alt="48agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SS-MARL/demo/navigation/compress_96agents.gif" alt="96agents" style="width: 250px; height: 250px;" />  
+### The framework of G-MAT-Lagr 
+<img src="data/figs/framework.png" alt="framework"/> 
 
-### Zero-shot transfer to cooperative formation with 3, 6, 12 agents
+### The training curve of reward and cost
+<img src="data/figs/rew-cost.jpg" alt="training curve"/>
 
-<img src="https://anonymous.4open.science/r/SS-MARL/demo/formation/3agents.gif" alt="3agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SS-MARL/demo/formation/6agents.gif" alt="6agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SS-MARL/demo/formation/12agents.gif" alt="12agents" style="width: 250px; height: 250px;" />
+### Train on cooperative navigation with different numbers of UAVs
 
-### Zero-shot transfer to cooperative line with 3, 6, 12 agents
+<img src="data/gifs/navigation_3agts.gif" alt="3agents" />  
 
-<img src="https://anonymous.4open.science/r/SS-MARL/demo/line/3agents.gif" alt="3agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SS-MARL/demo/line/6agents.gif" alt="6agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SS-MARL/demo/line/12agents.gif" alt="12agents" style="width: 250px; height: 250px;" />
+<img src="data/gifs/navigation_6agts.gif" alt="6agents" />
+
+<img src="data/gifs/navigation_9agts-sid0.gif" alt="9agents-0" />
+<img src="data/gifs/navigation_9agts-sid1.gif" alt="9agents-1" /> 
+<img src="data/gifs/navigation_9agts-sid2.gif" alt="9agents-2" /> 
