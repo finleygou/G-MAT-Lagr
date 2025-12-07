@@ -70,12 +70,12 @@ The overall architecture and training reward&cost are demonstrated in the follow
 ### Train on cooperative navigation with different numbers of UAVs
 
 The scenario of 3 UAVs
-<img src="data/gifs/navigation_3agts.gif" alt="3agents" style="width: 250px; height: 250px;" />  
+<img src="data/gifs/navigation_3agts.gif" alt="3agents" width="250" height="250" />  
 
 The scenario of 6 UAVs
-<img src="data/gifs/navigation_6agts.gif" alt="6agents" style="width: 250px; height: 250px;" />
+<img src="data/gifs/navigation_6agts.gif" alt="6agents" width="250" height="250" />
 
 The scenario of 9 UAVs
-<img src="data/gifs/navigation_9agts-sid0.gif" alt="9agents-0" style="width: 250px; height: 250px;" />
-<img src="data/gifs/navigation_9agts-sid1.gif" alt="9agents-1" style="width: 250px; height: 250px;" /> 
-<img src="data/gifs/navigation_9agts-sid2.gif" alt="9agents-2" style="width: 250px; height: 250px;" /> 
+<img src="data/gifs/navigation_9agts-sid0.gif" alt="9agents-0" width="250" height="250" />
+<img src="data/gifs/navigation_9agts-sid1.gif" alt="9agents-1" width="250" height="250" /> 
+<img src="data/gifs/navigation_9agts-sid2.gif" alt="9agents-2" width="250" height="250" /> 
