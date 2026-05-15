@@ -1,7 +1,7 @@
 # G-MAT-Lagr
 
 ## Overview
-This is the implementation of *Primal-Dual based Safe Multi-Agent Reinforcement Learning with Graph Information Aggregation*, submission to 2026 IFAC world congress.
+This is the implementation of *Primal-Dual based Safe Multi-Agent Reinforcement Learning with Graph Information Aggregation*, accepted by 2026 IFAC world congress.
 
 ## Dependencies & Installation
 We recommend to use CONDA to install the requirements:
